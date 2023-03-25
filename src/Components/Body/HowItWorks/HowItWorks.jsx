@@ -37,7 +37,6 @@ const HowItWorks = () => {
                         </div>
                         <div className="how-work-step-information">
                             <div className="how-it-works-right">
-                                <div className="how-it-work-arrow">---:</div>
                                 <div className="how-it-work-step-info">
                                     <div className="how-work-step-name">STEP 1</div>
                                     <div className="how-work-step-info">
@@ -55,7 +54,6 @@ const HowItWorks = () => {
                         </div>
                         <div className="how-work-step-information">
                             <div className="how-it-works-right">
-                                <div className="how-it-work-arrow">---:</div>
                                 <div className="how-it-work-step-info">
                                     <div className="how-work-step-name">STEP 2</div>
                                     <div className="how-work-step-info">
@@ -72,7 +70,6 @@ const HowItWorks = () => {
                         </div>
                         <div className="how-work-step-information">
                             <div className="how-it-works-right">
-                                <div className="how-it-work-arrow">---:</div>
                                 <div className="how-it-work-step-info">
                                     <div className="how-work-step-name">STEP 3</div>
                                     <div className="how-work-step-info">
@@ -89,7 +86,6 @@ const HowItWorks = () => {
                         </div>
                         <div className="how-work-step-information">
                             <div className="how-it-works-right">
-                                <div className="how-it-work-arrow">---:</div>
                                 <div className="how-it-work-step-info">
                                     <div className="how-work-step-name">STEP 4</div>
                                     <div className="how-work-step-info">
@@ -106,7 +102,6 @@ const HowItWorks = () => {
                         </div>
                         <div className="how-work-step-information">
                             <div className="how-it-works-right">
-                                <div className="how-it-work-arrow">---:</div>
                                 <div className="how-it-work-step-info">
                                     <div className="how-work-step-name">STEP 5</div>
                                     <div className="how-work-step-info">

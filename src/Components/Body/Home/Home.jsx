@@ -87,7 +87,7 @@ const Home = () => {
                                     <img src={img1} alt="" />
                                 </div>
                                 <div className="home-sell-step-info">
-                                    Call/Text Us at 7862501110/7864717409
+                                    Call/Text Us at 786.250.1110/786.471.7409
                                 </div>
                             </motion.div>
                         </Col>
@@ -233,7 +233,7 @@ const Home = () => {
                         viewport={{ once: true }}
                     >
                         <p>
-                            By the way, you’re not obligated to sell your home to us if we make you an offer, and we don’t charge any fees, ever. Our process is fast, easy, and won’t cost you a thing. So what do you have to lose? Give us a Call/Text at 7862501110/ 7864717409 or submit your information through our simple form to get a fair cash offer in minutes!
+                            By the way, you’re not obligated to sell your home to us if we make you an offer, and we don’t charge any fees, ever. Our process is fast, easy, and won’t cost you a thing. So what do you have to lose? Give us a Call/Text at 786.250.1110/ 786.471.7409 or submit your information through our simple form to get a fair cash offer in minutes!
                         </p>
                     </motion.div>
                 </div>
